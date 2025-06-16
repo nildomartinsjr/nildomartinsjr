@@ -73,11 +73,6 @@ Currently practicing and developing skills in:
 ---
 """
 
-# Salvar o arquivo final com estilo flat-square
-flat_square_path = Path("/mnt/data/README_NildoMartins_FlatSquare.md")
-flat_square_path.write_text(readme_flat_square.strip(), encoding='utf-8')
-
-flat_square_path.name
 
 
 
