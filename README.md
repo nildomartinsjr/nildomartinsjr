@@ -1,5 +1,5 @@
 
-<h2 align="center">👨‍💻 Nildo Martins | QA Engineer</h2>
+<h2 align="center">👨‍💻 Nildo Martins Jr. | QA Engineer</h2>
 
 ### 👋 About Me
 
