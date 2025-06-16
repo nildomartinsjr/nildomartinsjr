@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# README atualizado com badges estilo flat-square
-readme_flat_square = """
 <h2 align="center">👨‍💻 Nildo Martins | Jr QA Engineer</h2>
 
 ### 👋 About Me
